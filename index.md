@@ -2,7 +2,7 @@
 
 ### 2019 -  University of York, UK
 - PhD in Linguistics
-- Supersivors: [Eleanor Chodroff](https://www.eleanorchodroff.com/index.html), [Paul Foulkes](https://sites.google.com/a/york.ac.uk/paulfoulkes/)
+- Supersivors: [Eleanor Chodroff](https://www.eleanorchodroff.com), [Paul Foulkes](https://sites.google.com/a/york.ac.uk/paulfoulkes/)
 - Doctoral project: Perception and production of Mandarin dialect tone systems
 
 
